@@ -1,0 +1,22 @@
+{
+  "id": "eldnding",
+  "title": "Eldnding",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/replace_attr.js"
+  ],
+  "description": "changes attribute names"
+}
