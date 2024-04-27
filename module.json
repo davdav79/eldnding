@@ -18,5 +18,8 @@
   "esmodules": [
     "scripts/replace_attr.js"
   ],
-  "description": "changes attribute names"
+  "description": "changes attribute names",
+  "url": "https://github.com/davdav79/eldnding",
+  "download":"https://github.com/davdav79/eldnding/archive/refs/tags/v1.0.0.zip",
+  "manifest": "https://raw.githubusercontent.com/davdav79/eldnding/v1.0.0/module.json"
 }
