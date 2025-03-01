@@ -52,7 +52,7 @@
     }
   ],
   "url": "https://gitlab.com/SWW13/foundryvtt-stairways",
-  "manifest": "https://gitlab.com/SWW13/foundryvtt-stairways/-/raw/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/davdav79/eldnding/refs/heads/main/staiways(teleporter).json",
   "download": "https://gitlab.com/SWW13/foundryvtt-stairways/-/archive/v0.10.6/foundryvtt-stairways-v0.10.6.zip",
   "readme": "https://gitlab.com/SWW13/foundryvtt-stairways/blob/main/README.md",
   "changelog": "https://gitlab.com/SWW13/foundryvtt-stairways/blob/main/CHANGELOG.md",
